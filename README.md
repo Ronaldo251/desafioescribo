@@ -4,7 +4,7 @@ Este projeto consiste em uma função em JavaScript que calcula o somatório de 
 
 ## **Como Rodar o Projeto**
 
-1. Copie o código disponivel no https://github.com/Ronaldo251/desafioescribo.git
+1. Copie o código disponivel no https://github.com/Ronaldo251/desafioescribo/blob/main/desafio_escribo.js
 
 2. Abra seu navegador (Dê preferência ao Google Chrome).
 
@@ -15,6 +15,9 @@ Este projeto consiste em uma função em JavaScript que calcula o somatório de 
    <img src="/assets/console.png">
 
 7. Cole o código no console aberto e clique e clique no Enter no seu teclado e irá aparecer um prompt para utilizar o programa.
+   
+   <img src="/assets/prompt.png">
+
    
 
 ## Como Testar
