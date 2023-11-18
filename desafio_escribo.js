@@ -1,4 +1,5 @@
 function somatorioDivisiveis35AteN() {
+while(true){    
     // Solicitar ao usuário que insira um número inteiro positivo
     let numero = prompt("Digite um número inteiro positivo:");
 
@@ -20,7 +21,7 @@ function somatorioDivisiveis35AteN() {
     }
 
     // Exibir o resultado
-    alert("O somatório dos valores divisíveis por 3 ou 5 até " + numero + " é: " + somatorio);
+    alert("O somatório dos valores divisíveis por 3 ou 5 até " + numero + " é: " + somatorio);}
 }
 
 // Chamar a função para calcular o somatório com a entrada do usuário
