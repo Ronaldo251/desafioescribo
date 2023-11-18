@@ -9,10 +9,12 @@ Este projeto consiste em uma função em JavaScript que calcula o somatório de 
 2. Abra seu navegador (Dê preferência ao Google Chrome).
 
 3. Clique com o botão direito do mouse em qualquer lugar da página e clique em INSPECIONAR ELEMENTO.
+   <img src="/assets/insp.png">
 
-4. Após abrir as ferramentas de desenvolvedor, clique no botão CONSOLE.
+5. Após abrir as ferramentas de desenvolvedor, clique no botão CONSOLE.
+   <img src="/assets/console.png">
 
-5. Cole o código no console aberto e clique e clique no Enter no seu teclado e irá aparecer um prompt para utilizar o programa.
+7. Cole o código no console aberto e clique e clique no Enter no seu teclado e irá aparecer um prompt para utilizar o programa.
    
 
 ## Como Testar
