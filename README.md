@@ -4,7 +4,7 @@ Este projeto consiste em uma função em JavaScript que calcula o somatório de 
 
 ## **Como Rodar o Projeto**
 
-1. Copie o código disponivel no https://github.com/Ronaldo251/desafioescribo.git
+1. Copie o código disponivel no https://github.com/Ronaldo251/desafioescribo/edit/main/README.md
 
 2. Abra seu navegador (Dê preferência ao Google Chrome).
 
