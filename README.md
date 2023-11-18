@@ -16,6 +16,9 @@ Este projeto consiste em uma função em JavaScript que calcula o somatório de 
 
 7. Cole o código no console aberto e clique e clique no Enter no seu teclado e irá aparecer um prompt para utilizar o programa.
    
+   <img src="/assets/prompt.png">
+
+   
 
 ## Como Testar
 
